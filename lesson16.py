@@ -127,3 +127,6 @@ for j in a:
 		if j == c[i]:
 			n[i] = j
 print(n)
+
+#git
+print("status")
